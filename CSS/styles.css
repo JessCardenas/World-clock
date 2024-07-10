@@ -16,7 +16,7 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 70px;
+  font-size: 90px;
   font-weight: 700;
 }
 
@@ -61,6 +61,20 @@ h2 {
   font-size: 15px;
   line-height: 30px;
   vertical-align: middle;
+}
+
+.sticker1 img {
+  width: 300px;
+  position: absolute;
+  right: 50px;
+  bottom: 300px;
+}
+
+.sticker2 img {
+  width: 280px;
+  position: absolute;
+  left: 50px;
+  bottom: 300px;
 }
 
 footer {
